@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Charisma Mua Releases Nexus Repository</name>
-	      <url>http://localhost:8081/repository/charis-releases/</url>
+	      <url>http://localhost:8081/repository/releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Charisma Mua Snapshot Nexus Repository </name>
-	      <url>http://localhost:8081/repository/charis-snapshot/</url>
+	      <url>http://localhost:8081/repository/snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
