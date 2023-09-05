@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Charisma Mua Releases Nexus Repository</name>
-	      <url>http://localhost:8081/repository/release/</url>
+	      <url>http://localhost:8081/repository/paypal-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Charisma Mua Snapshot Nexus Repository </name>
-	      <url>http://localhost:8081/repository/snapshot/</url>
+	      <url>http://localhost:8081/repository/paypal-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
